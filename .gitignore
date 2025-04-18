@@ -1,0 +1,26 @@
+
+# Data files (if large or private)
+*.xlsx
+data/
+
+# Python virtual environment
+venv/
+*.env
+env/
+.venv/
+
+# Python cache
+__pycache__/
+*.pyc
+*.pyo
+
+# Jupyter Notebook checkpoints
+.ipynb_checkpoints/
+
+# Output files
+*.html # For the profiling report
+*.png # If any static plots were saved
+
+# IDE/OS files
+.idea/
+*.DS_Store
